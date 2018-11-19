@@ -1,9 +1,4 @@
 import React, { Component } from 'react';
-
-
-
-
-
 var getInfo = (e) => {
     console.log('i am in getinfo function');
      const firstName = e.target.elements.firstName.value;
