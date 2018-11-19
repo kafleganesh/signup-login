@@ -1,0 +1,26 @@
+.label-title{
+    margin-right: 40px;
+text-align: right
+}
+.signup-form{
+    padding: 10px;  
+    background: #d4ab5f;
+}
+ .container{
+    background: blanchedalmond;
+}
+.background-title h1{
+    text-align: center;
+    display: block;
+    margin-top : 15%;
+}
+
+
+ .Navbar-link{
+    margin-right: 20px;
+    font-size: 25px;
+
+}
+.Navbar{
+    border-bottom: 1px solid white;
+}
