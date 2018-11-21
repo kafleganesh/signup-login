@@ -7,7 +7,7 @@ var getInfo = (e) => {
      const email = e.target.elements.email.value;
 
 
-  
+  //Display all the entered valus in console
      console.log( firstName);
      console.log(lastName)
      console.log(password);
@@ -20,7 +20,7 @@ const Form = () =>(
     <div className = "container">
                 <div className = "row ">
                         <div className = "col-sm-6  background-title">
-                                <h1>Welcome to Signup</h1>
+                                <h1 className = "">Welcome to Signup</h1>
                         </div>
     
                         <div className = "col-sm-6 signup-form">
